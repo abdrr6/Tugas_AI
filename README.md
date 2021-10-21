@@ -6,7 +6,7 @@
 Label 1 : **Daun Pandan**  [Jalal] <br />
 Label 2 : **Daun Seledri** [Abdur] <br />
 
-**Tanggal Pengumpulan dataset :**
+**Tanggal Pengumpulan dataset :** <br />
 #Daun Pandan lengkap 50 foto dikumpulkan oleh Jalal pada __Sabtu 9 Oktober 2021__ <br />
 #Daun Sledri 15 foto dikumpulkan oleh Abdur pada __Selasa 12 Oktober 2021__ <br />
 #Daun Sledri lengkap 50 foto dikumpulkan oleh Abdur pada __Kamis 21 Oktober 2021__ <br />
