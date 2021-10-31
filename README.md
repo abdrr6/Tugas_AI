@@ -19,4 +19,8 @@ Jalal :  <br />
 Abdur :  <br />
 -•  Di tanggal __Selasa 12 Oktober 2021__ hanya terkumpul 15 foto sledri karena kehabisan sledri,sehingga pengumpulan data agak telat sampai __Kamis 21 Oktober 2021__ <br />
 -•  Panjang x Lebar foto belum sesuai, sebelum diupload ke Github tiap foto di resize menggunakan aplikasi __FastStone Photo Resizer__ dan menamai ulang sesuai ketentuan <br />
-        
+
+**Tugas Image Processing :** <br />
+**Daun Pandan**  [Jalal] <br />
+**Daun Seledri** [Abdur] <br />
+
